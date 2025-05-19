@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "teema9", "teema9.pyproj", "{245CDEBB-E492-45CD-9025-1B1E2C29FB94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{245CDEBB-E492-45CD-9025-1B1E2C29FB94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245CDEBB-E492-45CD-9025-1B1E2C29FB94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EFBE22A-74A2-4FE5-BD56-19C29D953C7A}
+	EndGlobalSection
+EndGlobal
