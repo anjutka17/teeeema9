@@ -1,5 +1,5 @@
 import pygame
-
+import random
 
 pygame.init()
 
@@ -55,6 +55,10 @@ ekraan.fill(sinine) # небо
 pygame.draw.rect(ekraan, roheline, (0, 400, 800, 200)) # трава
 
 paike()
+for _ in range(10):
+    x = random.randint(20, 780)
+    y = random.randint(420, 580) 
+    joonista_lill(ekraan, x, y)
 joonista_lill(ekraan, 200, 450)
 joonista_lill(ekraan, 250, 470)
 joonista_pilv(ekraan, 400, 100)

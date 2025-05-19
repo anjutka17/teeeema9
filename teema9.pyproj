@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>245cdebb-e492-45cd-9025-1b1e2c29fb94</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1.2_ülesanne.py</StartupFile>
+    <StartupFile>1.1_ülesanne.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

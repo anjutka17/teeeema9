@@ -16,7 +16,7 @@ kangelane = pygame.image.load("dedpull.png")
 kangelane = pygame.transform.scale(kangelane, (200, 200))
 aken.blit(kangelane, (220, 250))
 
-# рисуем овал (пузырь для текста)
+# овал 
 pygame.draw.ellipse(aken, valge, (100, 50, 440, 100)) # сам овал
 pygame.draw.ellipse(aken, must, (100, 50, 440, 100), 3) # граница
 
