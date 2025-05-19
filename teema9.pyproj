@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>245cdebb-e492-45cd-9025-1b1e2c29fb94</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1.osa_pygame.py</StartupFile>
+    <StartupFile>1.2_ülesanne.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -27,10 +27,11 @@
     <Compile Include="1.osa_pygame.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="hero.png" />
+    <Content Include="dedpull.png" />
+    <Content Include="liblikas.png" />
     <Content Include="mesilane.png" />
     <Content Include="rediska.jpg" />
-    <Content Include="taust.png" />
+    <Content Include="superwomen.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

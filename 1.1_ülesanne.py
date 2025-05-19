@@ -68,10 +68,7 @@ tekst = font.render("Tere tulemast!", True, valge)
 ekraan.blit(tekst, (500, 20))
 
 pygame.display.flip()
-
-
 while True:
-    event = pygame.event.poll()
-    if event.type == pygame.QUIT: break
-
-pygame.quit()
+    event=pygame.event.poll()
+    if event.type==pygame.QUIT: break
+pygame.quit
